@@ -11,7 +11,7 @@
   <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="allana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="allana-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-   <img align="center" alt="allana-html5css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5css3/html5css3-plain.svg">
+   <img align="center" alt="allana-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   
 </div>
   
