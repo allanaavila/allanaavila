@@ -26,18 +26,16 @@
     <a href="https://www.linkedin.com/in/allanaávila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- - Cursando Ciência da Computação , na Universidade José do Rosário Vellano - Unifenas.
+ - Cursando Ciência da Computação
 
--  Faço parte da Iniciação científica FAPEMIG/Unifenas projeto: METTRAVS - METRICS TRACKING FOR VISUAL STUDIO.
+- Qualificações:
 
-  - Qualificações:
+  *  Conhecimento na criação e edição no Office;
 
--  Conhecimento na criação e edição no Office;
+  *  Elaboração de Diagramas UML e fluxogramas;
 
-- Elaboração de Diagramas UML e fluxogramas;
+  * Noções Básicas em C/C++ e C#, Banco de Dados SQL Server, JavaScript, HTML5, CSS3, Linux;
 
-- Noções Básicas em C/C++ e C#, Banco de Dados SQL Server, MySQL, Java, Restful, Node.js, JavaScript, HTML5, CSS3, Linux;
+  * Utilização da plataforma GitHub;
 
-- Utilização da plataforma GitHub;
-
-- Estruturação Básica de front-end e back-end.
+ *  Estruturação Básica de front-end e back-end.
