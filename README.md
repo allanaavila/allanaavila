@@ -6,6 +6,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" alt="Top Languages">
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="allana-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
   <img align="center" alt="allana-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
