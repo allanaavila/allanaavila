@@ -13,7 +13,8 @@
    <img align="center" alt="allana-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
    <img align="center" alt="allana-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="allana-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="allana-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-plain.svg">
+  <img align="center" alt="allana-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+
 </div>
   
  ##
@@ -21,6 +22,8 @@
 Estudando no momento:
 <div style="display: inline_block"><br>
   <img align="center" alt="allana-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
+  <img align="center" alt="allana-uikit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uikit/uikit-plain.svg">
+<img align="center" alt="allana-swiftui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
   <img align="center" alt="allana-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
   <img align="center" alt="allana-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
