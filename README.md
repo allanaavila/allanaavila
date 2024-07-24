@@ -21,9 +21,7 @@
  
 Estudando no momento:
 <div style="display: inline_block"><br>
-  <img align="center" alt="allana-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
   <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="allana-springBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-plain.svg">
 </div>
 
   ##
@@ -32,7 +30,7 @@ Estudando no momento:
 
   *  Conhecimento na criação e edição no Office;
 
-  *  Elaboração de Diagramas UML, fluxogramas e metodologia agéis;
+  *  Elaboração de Diagramas UML, fluxogramas e metodologia ágil;
 
   * Noções Básicas em C/C++ e C#, Banco de Dados SQL Server, JavaScript, HTML5, CSS3, Linux, Swift e Figma;
 
