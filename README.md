@@ -21,9 +21,9 @@
  
 Estudando no momento:
 <div style="display: inline_block"><br>
-  <img align="center" alt="allana-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
+  <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="allana-springBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring-boot/spring-boot-plain.svg">
   <img align="center" alt="allana-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
-  <img align="center" alt="allana-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
 
   ##
