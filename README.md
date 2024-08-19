@@ -28,12 +28,8 @@ Estudando no momento:
 
 - Qualificações:
 
-  *  Conhecimento na criação e edição no Office;
+ Tenho experiência na elaboração de diagramas UML, fluxogramas, casos de uso e cenários, além de noções em diversas tecnologias como Java, C/C++, C#, Figma, Modelagem de Banco de Dados, SQL Server, MySQL, Neo4j, JavaScript, HTML5, CSS3 e Linux. Também possuo conhecimentos básicos em front-end e back-end.
 
-  *  Elaboração de Diagramas UML, fluxogramas e metodologia ágil;
+Atualmente, estou expandindo minhas habilidades através de projetos práticos e colaboração em equipe. Embora minha experiência profissional anterior não seja diretamente relacionada à tecnologia, estou extremamente motivada para aplicar minha capacidade de aprendizado rápido e ética de trabalho para crescer na área.
 
-  * Noções Básicas em C/C++ e C#, Banco de Dados SQL Server, JavaScript, HTML5, CSS3, Linux, Swift e Figma;
-
-  * Utilização da plataforma GitHub;
-
- *  Estruturação Básica de front-end, back-end e mobile.
+Acredito que as habilidades transferíveis que desenvolvi, como análise, tomada de decisão e trabalho em equipe, serão valiosas na transição para a tecnologia. Estou comprometida em aprender continuamente e em contribuir de maneira significativa para os projetos em que estiver envolvida.
