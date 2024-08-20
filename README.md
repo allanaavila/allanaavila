@@ -1,12 +1,14 @@
 👋 Olá, sou a Allana Ávila!
-Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
-
+<br>
+# Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
+<br>
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" alt="Top Languages">
 </div>
 
-
+<br>
 ⚙️ Tecnologias que Utilizo
+
 <div style="display: inline_block"><br>
   <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="allana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,14 +19,14 @@ Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
   <img align="center" alt="allana-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="allana-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 </div>
-
+<br>
 
 📚 Estudando no Momento
 <div style="display: inline_block"><br>
   <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
-
+<br>
 🛠️ Qualificações
 
 Tenho experiência na elaboração de diagramas UML, fluxogramas, casos de uso e cenários, além de noções em diversas tecnologias como Java, C/C++, C#, Figma, Modelagem de Banco de Dados, SQL Server, MySQL, Neo4j, JavaScript, HTML5, CSS3 e Linux. Também possuo conhecimentos básicos em front-end e back-end.
