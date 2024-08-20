@@ -4,6 +4,8 @@ Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" alt="Top Languages">
 </div>
+
+
 ⚙️ Tecnologias que Utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -15,11 +17,16 @@ Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
   <img align="center" alt="allana-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="allana-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 </div>
+
+
 📚 Estudando no Momento
 <div style="display: inline_block"><br>
   <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
+
+
 🛠️ Qualificações
+
 Tenho experiência na elaboração de diagramas UML, fluxogramas, casos de uso e cenários, além de noções em diversas tecnologias como Java, C/C++, C#, Figma, Modelagem de Banco de Dados, SQL Server, MySQL, Neo4j, JavaScript, HTML5, CSS3 e Linux. Também possuo conhecimentos básicos em front-end e back-end.
 
 Atualmente, estou expandindo minhas habilidades através de projetos práticos e colaboração em equipe. Embora minha experiência profissional anterior não seja diretamente relacionada à tecnologia, estou extremamente motivada para aplicar minha capacidade de aprendizado rápido e ética de trabalho para crescer na área.
