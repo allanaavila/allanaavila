@@ -20,6 +20,7 @@ Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
       <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
       <img align="center" alt="allana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="allana-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+       <img align="center" alt="allana-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     </td>
   </tr>
 </table>
