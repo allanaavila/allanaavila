@@ -3,9 +3,27 @@
 Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
 <br>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" alt="Top Languages">
-</div>
+<table>
+  <tr>
+    <th colspan="2">📊 Linguagens Mais Utilizadas</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">💻 Tecnologias</th>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+      <img align="center" alt="allana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="allana-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ⚙️ Tecnologias que Utilizo
