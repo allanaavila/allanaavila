@@ -3,7 +3,7 @@
 
 ---
 
-## 📊 Linguagens Mais Utilizadas  
+## 📊 Linguagens mais Utilizadas  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
 ---
@@ -35,7 +35,7 @@ Tenho experiência na elaboração de **diagramas UML, fluxogramas, casos de uso
 - **Java, C/C++, C#, Figma**
 - **Modelagem de Banco de Dados: SQL Server, MySQL, Neo4j**
 - **Desenvolvimento Web: HTML5, CSS3, JavaScript**
-- **Ambientes Linux e Windows**
+- **Ambientes Linux, Windows e MacOS**
   
 Tenho conhecimentos básicos de **front-end** e **back-end** e atualmente estou expandindo minhas habilidades através de projetos práticos e colaboração em equipe.
 
