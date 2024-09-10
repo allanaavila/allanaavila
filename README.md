@@ -56,4 +56,4 @@ Estou aberta a novas oportunidades e desafios que me permitam evoluir como desen
 ---
 
 ### Como me encontrar 🌐  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/allanaavila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/allana%C3%A1vila/)
