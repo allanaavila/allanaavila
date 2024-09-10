@@ -1,57 +1,73 @@
-👋 Olá, sou a Allana Ávila!
-<br>
-Estudante de Sistema de Informação | Entusiasta em Desenvolvimento de Software
-<br>
+# Olá! Eu sou a Allana Ávila 👋  
+### Estudante de Sistemas de Informação | Entusiasta em Desenvolvimento de Software
 
-<table>
-  <tr>
-    <th colspan="2">📊 Linguagens Mais Utilizadas</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" alt="Top Languages">
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2">💻 Tecnologias</th>
-  </tr>
-  <tr>
-    <td>
-      <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-      <img align="center" alt="allana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="allana-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-       <img align="center" alt="allana-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 📊 Linguagens Mais Utilizadas  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
-⚙️ Tecnologias que Utilizo
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="allana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="allana-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="allana-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="allana-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="allana-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="allana-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="allana-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+---
+
+## 💻 Tecnologias  
+<div style="display: inline_block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
 </div>
-<br>
 
-📚 Estudando no Momento
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="allana-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+---
+
+## ⚙️ Tecnologias que Utilizo  
+<div style="display: inline_block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
 </div>
-<br>
 
-🛠️ Qualificações
-<br>
-Tenho experiência na elaboração de diagramas UML, fluxogramas, casos de uso e cenários, além de noções em diversas tecnologias como Java, C/C++, C#, Figma, Modelagem de Banco de Dados, SQL Server, MySQL, Neo4j, JavaScript, HTML5, CSS3 e Linux. Também possuo conhecimentos básicos em front-end e back-end.
+---
 
-Atualmente, estou expandindo minhas habilidades através de projetos práticos e colaboração em equipe. Embora minha experiência profissional anterior não seja diretamente relacionada à tecnologia, estou extremamente motivada para aplicar minha capacidade de aprendizado rápido e ética de trabalho para crescer na área.
+## 📚 Atualmente Estudando  
+<div style="display: inline_block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
+</div>
 
-Acredito que as habilidades transferíveis que desenvolvi, como análise, tomada de decisão e trabalho em equipe, serão valiosas na transição para a tecnologia. Estou comprometida em aprender continuamente e em contribuir de maneira significativa para os projetos em que estiver envolvida.
+---
+
+## 🛠️ Qualificações  
+Tenho experiência na elaboração de **diagramas UML, fluxogramas, casos de uso e cenários**, além de noções em diversas tecnologias, incluindo:
+
+- **Java, C/C++, C#, Figma**
+- **Modelagem de Banco de Dados: SQL Server, MySQL, Neo4j**
+- **Desenvolvimento Web: HTML5, CSS3, JavaScript**
+- **Ambientes Linux e Windows**
+  
+Tenho conhecimentos básicos de **front-end** e **back-end** e atualmente estou expandindo minhas habilidades através de projetos práticos e colaboração em equipe.
+
+### 📈 Experiência
+Embora minha experiência profissional anterior não esteja diretamente relacionada à tecnologia, desenvolvi habilidades valiosas como:
+
+- **Análise e Tomada de Decisão**
+- **Trabalho em Equipe**
+- **Capacidade de Aprendizado Rápido**
+
+Estou motivada a aplicar essas competências no desenvolvimento de software e comprometida com o **aprendizado contínuo**, buscando sempre contribuir de forma significativa para os projetos em que atuo.
+
+---
+
+## 🌱 Buscando Oportunidades  
+Estou aberta a novas oportunidades e desafios que me permitam evoluir como desenvolvedora e colaborar com profissionais inspiradores!
+
+---
+
+### Como me encontrar 🌐  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/allanaavila)
