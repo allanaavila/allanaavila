@@ -5,9 +5,16 @@
 
 ## 📊 GitHub Stats
 
-![Allana's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanaavila&show_icons=true&theme=dracula&count_private=true&hide=stars)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula&card_width=445)](https://github.com/allanaavila)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=allanaavila&show_icons=true&theme=dracula&count_private=true&hide=stars" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 --- 
 
