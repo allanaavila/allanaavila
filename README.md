@@ -56,7 +56,7 @@ Tenho experiência na elaboração de **diagramas UML, fluxogramas, casos de uso
 - **Java, C/C++, C#, Figma**
 - **Modelagem de Banco de Dados: SQL Server, MySQL, Neo4j**
 - **Desenvolvimento Web: HTML5, CSS3, JavaScript**
-- **Ambientes: Windows, Linux e macOs **
+- **Ambientes: Windows, Linux e macOs**
   
 Tenho conhecimentos básicos de **front-end** e **back-end** e atualmente estou expandindo minhas habilidades através de projetos práticos e colaboração em equipe.
 
