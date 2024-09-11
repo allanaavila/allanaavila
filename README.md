@@ -6,7 +6,6 @@
 ## 📊 GitHub Stats
 
 ![Allana's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanaavila&show_icons=true&theme=dracula&count_private=true&hide=stars)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
 
