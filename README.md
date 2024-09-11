@@ -6,19 +6,13 @@
 ## 📊 GitHub Stats
 
 ![Allana's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanaavila&show_icons=true&theme=dracula&count_private=true&hide=stars)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=allanaavila&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
 ## 🔥 GitHub Contributions (Last Year)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allanaavila&theme=dracula)
 
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
 ---
 
