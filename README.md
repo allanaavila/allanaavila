@@ -9,7 +9,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
 
-## 🔥 GitHub Contributions (Last Year)
+## 🔥 My Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allanaavila&theme=dracula)
 
 
