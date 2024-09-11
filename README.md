@@ -20,9 +20,9 @@
 
 ## 🔥 Minhas estatísticas
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allanaavila&theme=dracula" alt="GitHub Streak" /></div>
-
-
+<div style="background-color: #1e1e1e; padding: 10px; border-radius: 5px; color: #e0e0e0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allanaavila&theme=dracula" alt="GitHub Streak" />
+</div>
 
 ---
 
