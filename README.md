@@ -3,7 +3,12 @@
 
 ---
 
-## 📊 Linguagens mais Utilizadas  
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUÁRIO&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUÁRIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&langs_count=8&layout=compact&theme=dracula)](https://github.com/allanaavila)
 
 ---
