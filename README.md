@@ -28,6 +28,8 @@ Estou motivada a contribuir para projetos inovadores e desafiadores que conectem
 <img height="200" width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=allanaavila&theme=buefy&show_icons=true&border_radius=10"/>
 <img height="200" width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaavila&theme=buefy&layout=donut&border_radius=10"/>
 </div> 
+
+
 ## Conhecimentos Técnicos
 
 <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
